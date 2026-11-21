@@ -1,1 +1,1 @@
-# Reto4-PCB-Interruptor-Crepuscular
+# manejo de excepciones en aplicaciones orientadas a objetos
